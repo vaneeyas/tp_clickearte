@@ -7,3 +7,12 @@ C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cach
 C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.dll
 C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.pdb
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\DAL.dll
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\DAL.pdb
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\BE.dll
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\BE.pdb
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.dll
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.pdb

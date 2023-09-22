@@ -4,3 +4,8 @@ C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.csproj.AssemblyReference.cache
 C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.dll
 C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.pdb
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\BE\bin\Debug\BE.dll
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\BE\bin\Debug\BE.pdb
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\BE\obj\Debug\BE.dll
+D:\UAI\Trabajo Final Integrador\Vilaboa\Git\vaneeyas\tp_clickearte\tp_clickearte\BE\obj\Debug\BE.pdb
