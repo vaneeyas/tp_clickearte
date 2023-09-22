@@ -1,0 +1,6 @@
+C:\Github\clickearte4\clickearte\BE\bin\Debug\BE.dll
+C:\Github\clickearte4\clickearte\BE\bin\Debug\BE.pdb
+C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.dll
+C:\Github\clickearte4\clickearte\BE\obj\Debug\BE.pdb

@@ -1,0 +1,9 @@
+C:\Github\clickearte4\clickearte\DAL\bin\Debug\DAL.dll
+C:\Github\clickearte4\clickearte\DAL\bin\Debug\DAL.pdb
+C:\Github\clickearte4\clickearte\DAL\bin\Debug\BE.dll
+C:\Github\clickearte4\clickearte\DAL\bin\Debug\BE.pdb
+C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.dll
+C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.pdb
