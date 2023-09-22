@@ -20,6 +20,7 @@ namespace DAL
 
             BE.BE_Usuario usuarioValido = MapearUsuarios(Conexion.ObtenerInstacia().Leer(consulta, parametros)).FirstOrDefault();
 
+            // Este es un comentario de prueba, BORRALO
             if (usuarioValido != null)
                 return true;
             else
