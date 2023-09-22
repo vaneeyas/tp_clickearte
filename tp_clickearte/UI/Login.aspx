@@ -9,8 +9,14 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
+        <h1>LOGIN</h1>
+        <br />
+        <asp:Label ID="lblMensajes" runat="server" Text=""></asp:Label>
+        <asp:TextBox ID="txtUsuario" runat="server"></asp:TextBox>
+        <asp:TextBox ID="txtContraseña" runat="server"></asp:TextBox>
+        <asp:Button ID="btnLogin" runat="server" Text="Login" onclick="btnLogin_Click"/>
+        <asp:Button ID="btnCrearUsuario" runat="server" Text="Crear Usuario" onclick="btnCrearUsuario_Click"/>
+        <br />
     </form>
 </body>
 </html>
