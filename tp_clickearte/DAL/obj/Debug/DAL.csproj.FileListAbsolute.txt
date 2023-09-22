@@ -7,3 +7,12 @@ C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cach
 C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.dll
 C:\Github\clickearte4\clickearte\DAL\obj\Debug\DAL.pdb
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.dll
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.pdb
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\DAL.dll
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\DAL.pdb
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\BE.dll
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\bin\Debug\BE.pdb
+C:\Users\Aguel\Source\Repos\vaneeyas\tp_clickearte\tp_clickearte\DAL\obj\Debug\DAL.csproj.CopyComplete
